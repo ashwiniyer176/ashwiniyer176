@@ -35,6 +35,9 @@ Python
 Tensorflow
 
 Other Hobbies:
+
 I play guitar.
+
 I have an interest in the Stock Market.
+
 I write fantasy fiction, but have not yet published.

@@ -1,10 +1,11 @@
-Hello there!, I am Ashwin U Iyer 
-I am a B.Tech CSE student from Vellore Institute of Technology,Chennai and an enthusiast in Web Development and Cyber Security.
+## Hello there!, I am Ashwin U Iyer 
+I am a B.Tech CSE with Spl. AI & ML student from Vellore Institute of Technology, Chennai. 
+
+**I love Math, Machine Learning, Web Development and Data Science!! 
+I also enjoy building software for my purposes**
 
 
-
-
-Languages and Tools:
+**Languages and Tools:**
 
 Visual Studio Code
 

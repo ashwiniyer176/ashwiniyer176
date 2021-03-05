@@ -7,6 +7,8 @@ I also enjoy building software for my purposes**
 
 **Languages and Tools:**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwiniyer176)](https://github.com/anuraghazra/github-readme-stats)
+
 Visual Studio Code
 
 HTML5

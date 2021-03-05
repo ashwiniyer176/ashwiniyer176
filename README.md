@@ -38,7 +38,7 @@ Python
 Tensorflow
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashwiniyer176/e5b46f6f-2070-4e49-82fb-03e6e5cc45df)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashwin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashwiniyer176)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Other Hobbies:

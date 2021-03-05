@@ -37,6 +37,10 @@ Python
 
 Tensorflow
 
+**Week Stats:**
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashwiniyer176)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Other Hobbies:
 
 I play guitar.

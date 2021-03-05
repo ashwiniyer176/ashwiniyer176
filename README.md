@@ -43,4 +43,4 @@ I have an interest in the Stock Market.
 
 I write fantasy fiction, but have not yet published.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwiniyer176)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwiniyer176&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

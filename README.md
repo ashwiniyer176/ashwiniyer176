@@ -25,6 +25,8 @@ SQL
 
 MySQL
 
+PyTorch
+
 Git
 
 GitHub

@@ -9,8 +9,6 @@ I also enjoy building software for my purposes**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwiniyer176&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-Visual Studio Code
-
 HTML5
 
 CSS3
@@ -19,19 +17,19 @@ JavaScript
 
 React
 
-Node.js
-
 SQL
 
 MySQL
+
+Python
+
+Jupyter
 
 PyTorch
 
 Git
 
 GitHub
-
-Terminal
 
 React Native
 

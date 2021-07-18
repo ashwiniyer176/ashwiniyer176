@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on [PandaTorch](https://github.com/ashwiniyer176/PandaTorch.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ashwiniyer176](https://github.com/ashwiniyer176)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/ashwiniyer176](https://github.com/ashwiniyer176) -->
 
 - 💬 Ask me about **Data Science, Machine Learning, Deep Learning**
 
-- 📫 How to reach me **ashwiniyer1706@gmail.com**
+- 📫 Reach me @ **ashwiniyer1706@gmail.com**
 
-- ⚡ Fun fact **I am an aspiring writer, Trekkie and Metallica fan!**
+- ⚡ Fun Facts: **I am an aspiring writer, Trekkie and Metallica fan!**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

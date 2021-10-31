@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Continual Learning](https://github.com/ashwiniyer176/Continual-Learning-Notebooks.git)
 
-- 🌱 I’m currently learning **PyTorch, MERN Stack, Django and Flask**
+- 🌱 I’m currently learning **PyTorch, Django and Flask**
 
 - 👯 I’m looking to collaborate on [PandaTorch](https://github.com/ashwiniyer176/PandaTorch.git)
 
@@ -22,7 +22,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashwin iyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwin iyer" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ashwin-iyer176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwin iyer" height="30" width="40" /></a>
 <a href="https://kaggle.com/ashwiniyer176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashwiniyer176" height="30" width="40" /></a>
 <a href="https://instagram.com/i_ashwin1706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_ashwin1706" height="30" width="40" /></a>
 </p>

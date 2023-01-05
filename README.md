@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin U Iyer</h1>
-<h3 align="center">A passionate Data Science Student</h3>
+<h3 align="center">A Machine Learning Engineer who dabbles in Web Development technologies to create end-to-end AI solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwiniyer176&label=Profile%20views&color=0e75b6&style=flat" alt="ashwiniyer176" /> </p>
 
